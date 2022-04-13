@@ -7,7 +7,7 @@ phrase:
     sources:
     - file: ./index_en-US.html
       params:
-       locale_id: 16bfb780da6b0a435d91995091991148
+        locale_id: 16bfb780da6b0a435d91995091991148
         
   pull:
     targets:
@@ -15,4 +15,4 @@ phrase:
       params:
         locale_id: 0ac5fe5ed2d305c42d5c223b35607e70
         format_option:
-        document_id: 3945
+         document_id: 3945
