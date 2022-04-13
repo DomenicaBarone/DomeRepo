@@ -6,8 +6,8 @@ phrase:
   push:
     sources:
     - file: ./index_en-US.html
-      params:
-        locale_id: 16bfb780da6b0a435d91995091991148
+    params:
+     locale_id: 16bfb780da6b0a435d91995091991148
         
   pull:
     targets:
