@@ -7,23 +7,23 @@ phrase:
     sources:
     - file: ./index_en-US.html
       params:
-        locale_id: 16bfb780da6b0a435d91995091991148
+        locale_id: 2f2dbf775a142892cb0f0ef93e4cb63c
         update_translations: true 
         
   pull:
     targets:
-    - file: ./index_<locale_code>.json
+    - file: ./index_ja-JP.json
       params:
         file_format: simple_JSON
         locale_id: 0d46a086a00854f892b89a78508edb23
         include_empty_translations: true 
-        fallback_locale_id: 16bfb780da6b0a435d91995091991148
+        fallback_locale_id: 2f2dbf775a142892cb0f0ef93e4cb63c
         
   pull:
     targets:
-    - file: ./index_<locale_code>.json
+    - file: ./index_fr.json
       params:
         file_format: simple_JSON
         locale_id: 06a1cfb9a84b1c121474c6dec483d28c
         include_empty_translations: true 
-        fallback_locale_id: 16bfb780da6b0a435d91995091991148
+        fallback_locale_id: 2f2dbf775a142892cb0f0ef93e4cb63c
