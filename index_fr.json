@@ -1,0 +1,20 @@
+{
+  "contact_sales_for_licensing_b347ac": "Contactez le service commercial pour les questions de licence. TEST",
+  "enterprise_edition_980d4d": "Edition pour entreprise",
+  "guide_module_articles_sections_41d33a": "Guide module articles, sections, and categories.",
+  "hello_world_3ca0ee": "Bonjour le monde",
+  "i_m_hosted_with_github_pages_1a5e3d": "Je suis hébergé sur GitHub Pages.",
+  "it_can_be_9b7c84": "<a id=\"UUID-576328d5-e74d-a6d1-b90f-efbe08d1ad0c_UUID-7406bf8f-8c9f-3069-f9be-4fe823e7e371\"></a>Ce\npeut être utilisé pour :",
+  "key.key.key.key.key": "Sélectionnez {count} {count, plural,\nun article}\nautres éléments}\n}",
+  "set_up_an_4a39e0": "\n              Set up an automation widget that allows senders to add\n              files to requests directly from the online repository.\n            ",
+  "support_module_dynamic_text_6c0f2d": "Support module dynamic text.",
+  "test.test.test.test.html": "C'est un test",
+  "the_a1ffa3": "Le fichier sélectionné sera importé le premier\nfois que vous exécutez APC.",
+  "the_connector_api_51c427": "L'API du connecteur vous permet d'automatiser les étapes que vous\neffectuer manuellement via l'interface utilisateur. Vous pouvez utiliser des webhooks\npour permettre à Memsource d'informer des systèmes tiers de certains\névénements (tels que les changements d'état des travaux).",
+  "the_project_dc890c": "\n              The project manager can add files directly to the project\n              from the online repository.\n            ",
+  "the_zendesk_connector_a1f15a": "Le connecteur Zendesk vous permet de télécharger le contenu source pour les éléments suivants\ntypes de contenu et télécharger des traductions vers et depuis Zendesk.",
+  "there_are_several_use_cases_for_f74c25": "Il existe plusieurs cas d'utilisation des connecteurs.",
+  "use_automatic_96d4ad": "Utilisez la création automatique de projet (APC) pour avoir Memsource\ncréer automatiquement un nouveau projet lorsqu'un changement dans le\nla date de la dernière modification (attribut edited_at) est détectée dans un\nfichier surveillé ou une liste entière. Si le connecteur est\nconfiguré pour créer des travaux uniquement pour les langues qui sont\nmarqué pour traduction, APC ne créera des travaux que pour\ntraductions des articles signalés.",
+  "use_case_7493b8": "<a id=\"UUID-576328d5-e74d-a6d1-b90f-efbe08d1ad0c_UUID-9ff13540-9b0e-7c6d-081f-2cb39f857854\"></a>Utiliser\nCas",
+  "zendesk_connector_b44715": "Connecteur Zendesk"
+}
