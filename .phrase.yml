@@ -14,7 +14,7 @@ phrase:
     targets:
     - file: ./index_ja-JP.json
       params:
-        file_format: simple_JSON
+        file_format: simple_json
         locale_id: 0d46a086a00854f892b89a78508edb23
         include_empty_translations: true 
         fallback_locale_id: 2f2dbf775a142892cb0f0ef93e4cb63c
@@ -23,7 +23,7 @@ phrase:
     targets:
     - file: ./index_fr.json
       params:
-        file_format: simple_JSON
+        file_format: simple_json
         locale_id: 06a1cfb9a84b1c121474c6dec483d28c
         include_empty_translations: true 
         fallback_locale_id: 2f2dbf775a142892cb0f0ef93e4cb63c
