@@ -8,6 +8,7 @@ phrase:
     - file: ./index_en-US.html
       params:
         locale_id: 16bfb780da6b0a435d91995091991148
+        update_translations: true 
         
   pull:
     targets:
