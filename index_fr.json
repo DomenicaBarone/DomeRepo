@@ -9,6 +9,7 @@
   "set_up_an_4a39e0": "\n              Set up an automation widget that allows senders to add\n              files to requests directly from the online repository.\n            ",
   "support_module_dynamic_text_6c0f2d": "Support module dynamic text.",
   "test.test.test.test.html": "C'est un test",
+  "test.what.a.nice.test": "Quelle belle épreuve",
   "the_a1ffa3": "Le fichier sélectionné sera importé le premier\nfois que vous exécutez APC.",
   "the_connector_api_51c427": "L'API du connecteur vous permet d'automatiser les étapes que vous\neffectuer manuellement via l'interface utilisateur. Vous pouvez utiliser des webhooks\npour permettre à Memsource d'informer des systèmes tiers de certains\névénements (tels que les changements d'état des travaux).",
   "the_project_dc890c": "\n              The project manager can add files directly to the project\n              from the online repository.\n            ",
