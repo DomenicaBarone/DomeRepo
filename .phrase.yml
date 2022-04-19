@@ -12,18 +12,18 @@ phrase:
         
   pull:
     targets:
-    - file: ./index_ja-JP.json
+    - file: ./index_ja-JP.xlf
       params:
-        file_format: simple_json
+        file_format: xlif
         locale_id: 0d46a086a00854f892b89a78508edb23
         include_empty_translations: true 
         fallback_locale_id: 2f2dbf775a142892cb0f0ef93e4cb63c
         
   pull:
     targets:
-    - file: ./index_fr.json
+    - file: ./index_fr.xlf
       params:
-        file_format: simple_json
+        file_format: xlf
         locale_id: 06a1cfb9a84b1c121474c6dec483d28c
         include_empty_translations: true 
         fallback_locale_id: 2f2dbf775a142892cb0f0ef93e4cb63c
