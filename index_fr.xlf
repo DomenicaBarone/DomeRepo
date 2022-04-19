@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="global" datatype="plaintext" source-language="en-US" target-language="fr">
+    <body>
+      <trans-unit id="contact_sales_for_licensing_b347ac">
+        <source xml:lang="en-US">Contact Sales for licensing questions. TEST</source>
+        <target xml:lang="fr">Contactez le service commercial pour les questions de licence. TEST</target>
+      </trans-unit>
+      <trans-unit id="enterprise_edition_980d4d">
+        <source xml:lang="en-US">Enterprise Edition</source>
+        <target xml:lang="fr">Edition pour entreprise</target>
+      </trans-unit>
+      <trans-unit id="guide_module_articles_sections_41d33a">
+        <source xml:lang="en-US">Guide module articles, sections, and categories.</source>
+        <target xml:lang="fr">Guide module articles, sections, and categories.</target>
+      </trans-unit>
+      <trans-unit id="hello_world_3ca0ee">
+        <source xml:lang="en-US">Hello World</source>
+        <target xml:lang="fr">Bonjour le monde</target>
+      </trans-unit>
+      <trans-unit id="i_m_hosted_with_github_pages_1a5e3d">
+        <source xml:lang="en-US">I'm hosted with GitHub Pages.</source>
+        <target xml:lang="fr">Je suis hébergé sur GitHub Pages.</target>
+      </trans-unit>
+      <trans-unit id="it_can_be_9b7c84">
+        <source xml:lang="en-US">
+          &lt;a id="UUID-576328d5-e74d-a6d1-b90f-efbe08d1ad0c_UUID-7406bf8f-8c9f-3069-f9be-4fe823e7e371"&gt;&lt;/a&gt;It
+          can be used for:
+        </source>
+        <target xml:lang="fr">&lt;a id="UUID-576328d5-e74d-a6d1-b90f-efbe08d1ad0c_UUID-7406bf8f-8c9f-3069-f9be-4fe823e7e371"&gt;&lt;/a&gt;Ce
+peut être utilisé pour :</target>
+      </trans-unit>
+      <trans-unit id="key.key.key.key.key">
+        <source xml:lang="en-US">Select {count} {count, plural,
+one {item}
+other {items}
+}</source>
+        <target xml:lang="fr">Sélectionnez {count} {count, plural,
+un article}
+autres éléments}
+}</target>
+      </trans-unit>
+      <trans-unit id="set_up_an_4a39e0">
+        <source xml:lang="en-US">
+              Set up an automation widget that allows senders to add
+              files to requests directly from the online repository.
+            </source>
+        <target xml:lang="fr">
+              Set up an automation widget that allows senders to add
+              files to requests directly from the online repository.
+            </target>
+      </trans-unit>
+      <trans-unit id="support_module_dynamic_text_6c0f2d">
+        <source xml:lang="en-US">Support module dynamic text.</source>
+        <target xml:lang="fr">Support module dynamic text.</target>
+      </trans-unit>
+      <trans-unit id="test.test.test.test.html">
+        <source xml:lang="en-US">This is a test</source>
+        <target xml:lang="fr">C'est un test</target>
+      </trans-unit>
+      <trans-unit id="test.what.a.nice.test">
+        <source xml:lang="en-US">What a nice test</source>
+        <target xml:lang="fr">Quelle belle épreuve</target>
+      </trans-unit>
+      <trans-unit id="the_a1ffa3">
+        <source xml:lang="en-US">
+                    The selected file will be imported the first
+                    time you run APC.
+                  </source>
+        <target xml:lang="fr">Le fichier sélectionné sera importé le premier
+fois que vous exécutez APC.</target>
+      </trans-unit>
+      <trans-unit id="the_connector_api_51c427">
+        <source xml:lang="en-US">
+              The Connector API allows you to automate the steps you
+              perform manually through the UI. You can use webhooks
+              to let Memsource notify third-party systems about certain
+              events (such as job status changes).
+            </source>
+        <target xml:lang="fr">L'API du connecteur vous permet d'automatiser les étapes que vous
+effectuer manuellement via l'interface utilisateur. Vous pouvez utiliser des webhooks
+pour permettre à Memsource d'informer des systèmes tiers de certains
+événements (tels que les changements d'état des travaux).</target>
+      </trans-unit>
+      <trans-unit id="the_project_dc890c">
+        <source xml:lang="en-US">
+              The project manager can add files directly to the project
+              from the online repository.
+            </source>
+        <target xml:lang="fr">
+              The project manager can add files directly to the project
+              from the online repository.
+            </target>
+      </trans-unit>
+      <trans-unit id="the_zendesk_connector_a1f15a">
+        <source xml:lang="en-US">
+      The Zendesk Connector allows you to download source content for the following
+      content types and upload translations to and from Zendesk.
+    </source>
+        <target xml:lang="fr">Le connecteur Zendesk vous permet de télécharger le contenu source pour les éléments suivants
+types de contenu et télécharger des traductions vers et depuis Zendesk.</target>
+      </trans-unit>
+      <trans-unit id="there_are_several_use_cases_for_f74c25">
+        <source xml:lang="en-US">There are several use cases for connectors.</source>
+        <target xml:lang="fr">Il existe plusieurs cas d'utilisation des connecteurs.</target>
+      </trans-unit>
+      <trans-unit id="use_automatic_96d4ad">
+        <source xml:lang="en-US">
+              Use Automatic Project Creation (APC) to have Memsource
+              automatically create a new project when a change in the
+              last edit date (edited_at attribute) is detected in a
+              monitored file or an entire list. If the connector is
+              configured to create jobs only for languages that are
+              flagged for translation, APC will only create jobs for
+              translations of flagged articles.
+            </source>
+        <target xml:lang="fr">Utilisez la création automatique de projet (APC) pour avoir Memsource
+créer automatiquement un nouveau projet lorsqu'un changement dans le
+la date de la dernière modification (attribut edited_at) est détectée dans un
+fichier surveillé ou une liste entière. Si le connecteur est
+configuré pour créer des travaux uniquement pour les langues qui sont
+marqué pour traduction, APC ne créera des travaux que pour
+traductions des articles signalés.</target>
+      </trans-unit>
+      <trans-unit id="use_case_7493b8">
+        <source xml:lang="en-US">
+          &lt;a id="UUID-576328d5-e74d-a6d1-b90f-efbe08d1ad0c_UUID-9ff13540-9b0e-7c6d-081f-2cb39f857854"&gt;&lt;/a&gt;Use
+          Case
+        </source>
+        <target xml:lang="fr">&lt;a id="UUID-576328d5-e74d-a6d1-b90f-efbe08d1ad0c_UUID-9ff13540-9b0e-7c6d-081f-2cb39f857854"&gt;&lt;/a&gt;Utiliser
+Cas</target>
+      </trans-unit>
+      <trans-unit id="zendesk_connector_b44715">
+        <source xml:lang="en-US">Zendesk connector</source>
+        <target xml:lang="fr">Connecteur Zendesk</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
